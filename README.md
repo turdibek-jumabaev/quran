@@ -1,4 +1,4 @@
-# quran
+# 📖 Quran
 Incomplete
 
 ## Example
@@ -20,3 +20,5 @@ data.get_surah_audio(1, download=True)
 ```python
 print(data.get_surah_audio(1, link=True))
 ```
+
+# 🎵 Listen Quran - https://www.listen-quran.cf/
